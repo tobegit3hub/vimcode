@@ -23,5 +23,4 @@ production:
   encoding: unicode
   database: vimcode_production
   pool: 5
-  username: tobe
-  password: postgres
+  password:
